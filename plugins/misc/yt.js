@@ -3,7 +3,7 @@ const axios = require("axios")
 let { JSDOM } = require('jsdom')
 const { Innertube, UniversalCache } = require('youtubei.js');
 const { readFileSync, existsSync, mkdirSync, createWriteStream } = require('fs');
-const {streamToIterable} = require('youtubei.js/dist/src/utils/Utils');
+const {streamToIterable} = require('youtubei.js');
 var path = require('path');
 function bytesToSize(bytes) {
   var sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
