@@ -31,6 +31,7 @@
     "node-cron": "3.0.1",
     "image-to-pdf":"2.0.0",
     "imgur":"^2.2.0",
+    "youtubei.js":"7.9.0"
     "node-webpmux": "^3.1.0",
     "pm2": "^5.2.2",
     "pg": "^8.5.1",
@@ -39,7 +40,6 @@
     "sqlite3": "^5.0.0",
     "string-crypto": "2.0.2",
     "google-tts-api": "2.0.2",
-    "badwords":"1.0.0",
-    "youtubei.js":"8.0.0"
+    "badwords":"1.0.0"   
   }
 }
