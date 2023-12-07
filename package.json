@@ -39,6 +39,7 @@
     "sqlite3": "^5.0.0",
     "string-crypto": "2.0.2",
     "google-tts-api": "2.0.2",
-    "badwords":"1.0.0"
+    "badwords":"1.0.0",
+    "youtubei.js":"8.0.0"
   }
 }
