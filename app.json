@@ -78,7 +78,7 @@
             "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
-       "SESSION": {
+       "SESSION_ID": {
             "description": "Your MD session",
             "required": true
              
